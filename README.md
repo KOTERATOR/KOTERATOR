@@ -1,4 +1,4 @@
 ### ПРИВЕТ!
 
-#### Работаю над [Гитарным процессором эффектов](https://github.com/KOTERATOR/BiT-Pedal)
+#### Работаю над [процессором эффектов](https://github.com/shoegaze2/shoegaze2)
 
